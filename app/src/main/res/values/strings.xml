@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">P02-Holidays</string>
+    <string name="Secular" />
+    <string name="types">Types of Public Holidays in SG</string>
+    <string name="secular">Secular</string>
+    <string name="islamic">Islamic</string>
 </resources>

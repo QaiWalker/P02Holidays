@@ -5,17 +5,16 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textViewType"
-        android:layout_width="match_parent"
-        android:layout_height="129dp"
+        android:id="@+id/textViewSecular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@string/types"
+        android:text="@string/secular"
         android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
     <ListView
-        android:id="@+id/listViewCat"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:id="@+id/listViewSecular"
+        android:layout_width="match_parent"
+        android:layout_height="470dp"
         android:layout_weight="1" />
-
 </LinearLayout>
